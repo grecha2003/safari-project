@@ -5,28 +5,26 @@ Plagins: "jquery.magnific-popup.min.js, jquery.fancybox.min.js";</br>
 Status: Completed;</br>
 </br>
 </br>
-</br>
-```php
+```txt
 //txt code
-Структура папок (auto)</br>
-│   index.html</br>
-│   project.txt</br>
-│   README.md</br>
-│   </br>
-├───css</br>
-│       jquery.fancybox.css</br>
-│       magnific-popup.css</br>
-│       reset.css</br>
-│       slick.css</br>
-│       style.css</br>
-│       </br>
-├───fonts </br>
-│</br>
-├───images  </br>
-│</br>
-└───js</br>
-        jquery.fancybox.min.js</br>
-        jquery.magnific-popup.min.js</br>
-        main.js</br>
-        slick.min.js</br>
-        </br>
+Folder structure (auto)
+│   index.html
+│   project.txt
+│   README.md
+│ 
+├───css
+│       jquery.fancybox.css
+│       magnific-popup.css
+│       reset.css
+│       slick.css
+│       style.css
+│
+├───fonts 
+│
+├───images 
+│
+└───js
+        jquery.fancybox.min.js
+        jquery.magnific-popup.min.js
+        main.js
+        slick.min.js
