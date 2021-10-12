@@ -6,7 +6,6 @@ Status: Completed;</br>
 </br>
 </br>
 ```txt
-//txt code
 Folder structure (auto)
 │   index.html
 │   project.txt
