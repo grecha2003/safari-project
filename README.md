@@ -1,7 +1,7 @@
 Name: "Сафари ТУРИСТИК";</br>
 Description: My Learning Project("grecha");</br>
 Languages: "HTML, CSS, JS";</br>
-Plagins: "jquery.magnific-popup.min.js, jquery.fancybox.min.js";</br>
+Plugins: "jquery.magnific-popup.min.js, jquery.fancybox.min.js";</br>
 Status: Completed;</br>
 </br>
 </br>
