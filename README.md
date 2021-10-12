@@ -1,7 +1,10 @@
 Name: "Сафари ТУРИСТИК";</br>
-Description: Мой учебный проект;</br>
+Description: Мой учебный проект("grecha");</br>
 Technology: "HTML, CSS, JS";</br>
 Plagins: "jquery.magnific-popup.min.js, jquery.fancybox.min.js";</br>
+Status: Completed;</br>
+
+
 
 Структура папок (auto)</br>
 │   index.html</br>
