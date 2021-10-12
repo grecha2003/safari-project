@@ -3,9 +3,9 @@ Description: Мой учебный проект("grecha");</br>
 Technology: "HTML, CSS, JS";</br>
 Plagins: "jquery.magnific-popup.min.js, jquery.fancybox.min.js";</br>
 Status: Completed;</br>
-
-
-
+</br>
+</br>
+</br>
 Структура папок (auto)</br>
 │   index.html</br>
 │   project.txt</br>
