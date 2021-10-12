@@ -6,6 +6,8 @@ Status: Completed;</br>
 </br>
 </br>
 </br>
+```php
+//txt code
 Структура папок (auto)</br>
 │   index.html</br>
 │   project.txt</br>
